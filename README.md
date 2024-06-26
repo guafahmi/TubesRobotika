@@ -1,5 +1,3 @@
-Bisa nyambung juga ke link ini https://drive.google.com/drive/folders/1AivMVl_m3uLFCOM0zTVTPgbjckxa339-
-
 # TubesRobotika
 Kelompok 4 URDF
 1. M. Fahmi Ilmi Y - 1103210268
