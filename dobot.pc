@@ -1,0 +1,8 @@
+prefix=/home/indra/tubes_ws/devel
+
+Name: dobot
+Description: Description of dobot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

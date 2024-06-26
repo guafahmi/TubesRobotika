@@ -1,0 +1,8 @@
+prefix=/home/indra/tubes_ws/devel
+
+Name: tubes_pkg
+Description: Description of tubes_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
